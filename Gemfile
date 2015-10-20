@@ -6,6 +6,7 @@ gem 'uglifier'
 gem 'bootstrap-sass'
 
 group :jekyll_plugins do
+  gem 'jekyll-sitemap'
   gem 'jekyll-haml'
   gem 'jekyll-assets'
 end
